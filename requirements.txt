@@ -1,0 +1,11 @@
+customtkinter
+speechrecognition
+googletrans==4.0.0-rc1
+pydub
+pyttsx3
+nltk
+reportlab
+python-docx
+soundfile
+numpy
+ctkmessagebox
